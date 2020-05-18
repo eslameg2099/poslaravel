@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About project
 
 Cashier management by adding items, products and customers, controlling users' permission in terms of (display - add - delete - edit) and print and store invoices and create a monthly buy and sell report to see the rate of gain and loss
